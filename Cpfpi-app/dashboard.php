@@ -90,7 +90,7 @@
                                     <h5 class="m-0">
                                         <span class="float-right">
                                             <a href="" class="text-dark">
-                                                <small>Clear All</small>
+                                                <small>Clear All about the link</small>
                                             </a>
                                         </span>Notification
                                     </h5>
